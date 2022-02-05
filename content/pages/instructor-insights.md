@@ -70,7 +70,20 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 10% Daily grade{{< br >}}- 50% Quizzes (lesson, vocabulary, dictation & Kanji){{< br >}}- 20% Interview tests (2) and one-hour exam{{< br >}}- 15% Homework{{< br >}}- 5% Projects{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 10% Daily grade
+- 50% Quizzes (lesson, vocabulary, dictation & Kanji)
+- 20% Interview tests (2) and one-hour exam
+- 15% Homework
+- 5% Projects
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Instructor Insights on Assessment
 

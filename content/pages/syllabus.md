@@ -61,15 +61,84 @@ There are two Interview Tests, five Lesson Quizzes (20–25 minutes long) and on
 
 12.  _Evaluation Method:_
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Daily Grade | 10%\* |
-| Five Lesson Quizzes (LQ) | 25%\*\* |
-| Two Interview Tests | 10% |
-| One-Hour Exam | 10% |
-| Vocabulary, Dictation, Kanji Quizzes | 25%\*\*\* |
-| Homework | 15%\*\*\*\* |
-| Two Projects | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily Grade
+{{< tdclose >}}
+{{< tdopen >}}
+10%\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five Lesson Quizzes (LQ)
+{{< tdclose >}}
+{{< tdopen >}}
+25%\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Interview Tests
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One-Hour Exam
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vocabulary, Dictation, Kanji Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+25%\*\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+15%\*\*\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Projects
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*Three lowest daily scores will be dropped during the term.
 
