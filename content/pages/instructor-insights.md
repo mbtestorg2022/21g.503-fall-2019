@@ -37,7 +37,7 @@ Curriculum Information
 
 ### Prerequisites
 
-This course is the third part of a six-course sequence. The sequence continues in [_21G.504 Japanese IV_](/courses/21g-504-japanese-iv-spring-2009/). The first course in the sequence is [_21G.501 Japanese I_](/courses/21g-501-japanese-i-fall-2012/). The second course in the sequence is [_21G.502 Japanese II_](/courses/21g-502-japanese-ii-spring-2013/).
+This course is the third part of a six-course sequence. The sequence continues in [_21G.504 Japanese IV_](/courses/21g-504-japanese-iv-spring-2009). The first course in the sequence is [_21G.501 Japanese I_](/courses/21g-501-japanese-i-fall-2012/). The second course in the sequence is [_21G.502 Japanese II_](/courses/21g-502-japanese-ii-spring-2013/).
 
 ### Requirements Satisfied
 

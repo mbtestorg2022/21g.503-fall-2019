@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4e53ed32-26d3-1ced-4e6d-ed3f99127d69
 resourcetype: Image
 title: Takako_A.jpg
 uid: f0a57e24-86c5-5b1d-2511-19debfca8e33
